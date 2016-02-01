@@ -1,0 +1,5 @@
+c:\users\subhajits977\documents\visual studio 2013\Projects\SampleConsoleApplication_PwC\PwC_ConsoleApplication\bin\Debug\PwC_ConsoleApplication.exe.config
+c:\users\subhajits977\documents\visual studio 2013\Projects\SampleConsoleApplication_PwC\PwC_ConsoleApplication\bin\Debug\PwC_ConsoleApplication.exe
+c:\users\subhajits977\documents\visual studio 2013\Projects\SampleConsoleApplication_PwC\PwC_ConsoleApplication\bin\Debug\PwC_ConsoleApplication.pdb
+c:\users\subhajits977\documents\visual studio 2013\Projects\SampleConsoleApplication_PwC\PwC_ConsoleApplication\obj\Debug\PwC_ConsoleApplication.exe
+c:\users\subhajits977\documents\visual studio 2013\Projects\SampleConsoleApplication_PwC\PwC_ConsoleApplication\obj\Debug\PwC_ConsoleApplication.pdb
